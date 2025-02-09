@@ -170,6 +170,7 @@
     border: none;
     cursor: pointer;
     box-shadow: 4px 4px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: 0.3s;
 }
 .selection_btn:active{
     background-color: var(--background);
@@ -308,7 +309,7 @@
     color: var(--color-font1);
     font-weight: 600;
     cursor: text; 
-    transition: 0.3s;
+    transition: 0.2s;
 }
 .sign-up_form_input:focus ~ .sign-up_form_title,
 .sign-up_form_input:valid ~ .sign-up_form_title{
@@ -328,6 +329,7 @@
     cursor: pointer;
     box-shadow: 4px 4px 10px 0 rgba(0, 0, 0, 0.5);
     margin-top: 3vh;
+    transition: 0.3s;
 }
 .sign-up_btn:active{
     background-color: var(--background);
