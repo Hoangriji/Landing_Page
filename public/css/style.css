@@ -605,7 +605,7 @@ html, body{
 @media (max-width: 850px){
     /* selection */
     .selection_background{
-        height: 90vh;
+        height: 92vh;
     }
     .selection_logo{
         width: 17%;
@@ -686,6 +686,9 @@ html, body{
         left: 65vw;
     }
     /* describe */
+    .describe{
+        margin-top: 0;
+    }
     .describe_title{
         font-size: 1.5em;
     }
