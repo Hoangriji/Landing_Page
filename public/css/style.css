@@ -605,7 +605,7 @@ html, body{
 @media (max-width: 850px){
     /* selection */
     .selection_background{
-        height: 92vh;
+        height: 93vh;
     }
     .selection_logo{
         width: 17%;
@@ -729,6 +729,9 @@ html, body{
         margin-top: 0;
     }
     /* sign-up */
+    .sign-up{
+        margin: 0;
+    }
     .sign-up_content_title{
         font-size: 1.5em;
     }
