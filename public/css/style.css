@@ -131,10 +131,10 @@ html, body{
 }
 .selection_btn{
     width: 215px;
-    height: 57px;
+    height: 60px;
     border-radius: 64px;
-    background-color: var(--background-second);
-    color: var(--color-font1);
+    background-color: var(--color-font1);
+    color: var(--color-font);
     font-size: 1.3em;
     font-weight: 700;
     margin-top: 5vh;
@@ -292,11 +292,11 @@ html, body{
     padding: 0 0.5vw; 
 }
 .sign-up_btn{
-    width: 205px;
+    width: 215px;
     height: 60px;
     border-radius: 64px;
-    background-color: var(--background-second);
-    color: var(--color-font1);
+    background-color: var(--color-font1);
+    color: var(--color-font);
     font-size: 1.3em;
     font-weight: 700;
     border: none;
@@ -604,6 +604,9 @@ html, body{
 /* mobile */
 @media (max-width: 850px){
     /* selection */
+    .selection_background{
+        height: 90vh;
+    }
     .selection_logo{
         width: 17%;
         margin-left: 2vw;   
@@ -621,7 +624,6 @@ html, body{
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin-top: 2vh; 
     }
     .selection_time{
         width: 90%;
@@ -764,7 +766,7 @@ html, body{
         right: 5vw;
     }
     #sign-up_footprint-3{
-        top: 5vh;
+        top: 8vh;
         right: 5vw;
     }
     .sign-up_pet{
