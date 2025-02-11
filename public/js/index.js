@@ -1,3 +1,3 @@
 function scrollToTarget() {
-    document.getElementById("sign-up_content_title").scrollIntoView({ behavior: "smooth" });
+    document.getElementById("sign-up").scrollIntoView({ behavior: "smooth" });
 }
