@@ -620,7 +620,7 @@ html, body{
     #desktop{
         display: none;
     }
-    #mobile{
+    .mobile{
         display: flex;
         flex-direction: column;
         justify-content: center;
