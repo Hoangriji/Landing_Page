@@ -81,7 +81,7 @@ html, body{
 }
 
 /* Selection content */
-#mobile{
+.mobile{
     display: none;
 }
 .content_wrapper{
