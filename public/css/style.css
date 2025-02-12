@@ -809,4 +809,8 @@ html, body{
     .infor_right{
         align-items: center;
     }
+    .contact_content{
+        text-align: center;
+        width: 95%;
+    }
 }
