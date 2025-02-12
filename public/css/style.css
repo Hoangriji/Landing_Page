@@ -11,7 +11,9 @@
     --color-font: #ffffff;
     --color-font1: #000000;
 }
-
+br{
+    height: 2vh;
+}
 /* body::-webkit-scrollbar{
   width: 0 !important;
   display: none; 
