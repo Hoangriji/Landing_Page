@@ -248,7 +248,7 @@ html, body{
     background-color: var(--background);
     margin: 5vh auto;
     border-radius: 64px;
-    box-shadow: inset 5px 5px 10px 0 rgba(0, 0, 0, 0.5), inset -5px -5px 10px 0 rgba(255, 255, 255, 0.5);
+    /* box-shadow: inset 5px 5px 10px 0 rgba(0, 0, 0, 0.5), inset -5px -5px 10px 0 rgba(255, 255, 255, 0.5); */
 }
 .sign-up_form{
     width: 100%;
