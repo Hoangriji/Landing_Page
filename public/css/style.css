@@ -613,7 +613,7 @@ html, body{
     }
     .selection_title{
         width: 100%;
-        font-size: 1.2em;
+        font-size: 1.3em;
     }
     #desktop{
         display: none;
@@ -632,7 +632,7 @@ html, body{
     }
     .selection_content-title{
         width: 90%; 
-        font-size: 1.5em;
+        font-size: 1.3em;
     }
     .selection_content-content{
         width: 90%;
@@ -690,7 +690,7 @@ html, body{
         margin-top: 0;
     }
     .describe_title{
-        font-size: 1.5em;
+        font-size: 1.3em;
     }
     .describe_content-content{
         font-size: 1em;
@@ -733,7 +733,7 @@ html, body{
         margin: 0;
     }
     .sign-up_content_title{
-        font-size: 1.5em;
+        font-size: 1.3em;
     }
     .sign-up_container{
         width: 95%;
